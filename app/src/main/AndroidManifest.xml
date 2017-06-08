@@ -41,9 +41,6 @@
         <meta-data
             android:name="com.amap.api.v2.apikey"
             android:value="a097e4e28390ad0236110f59aa24d8bc"></meta-data>
-        <activity android:name=".MoveTestActivity">
-
-        </activity>
 
         <service android:name="com.amap.api.location.APSService"></service>
 
